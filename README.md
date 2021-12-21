@@ -46,8 +46,8 @@ Delivers a pre defined configuration to help newbies with their first steps usin
 - Mod Key + Spacebar  = switch between Windows (usefull when in fullscreen layout)
 
 ## Knownn Issues:
-- The installer wont clean up untar'd files after he's done.
-- Somehow some awesome icons are wrong on some systems!? ... I have no idea why
+- ~~The installer wont clean up untar'd files after he's done.
+- ~~Somehow some awesome icons are wrong on some systems!? ... I have no idea why
 
 ##
 That should kickstart your qtile experience. 
